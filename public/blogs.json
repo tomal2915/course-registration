@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "courseTitle": "Introduction to OOP Python",
+    "courseDetails": "This course provides a comprehensive introduction to Object-Oriented Programming (OOP) using the Python programming language.",
+    "courseCoverImage": "https://i.ibb.co/4ZBVpKB/Rectangle-2.png",
+    "coursePrice": 49.99,
+    "courseCreditHour": 3
+  },
+  {
+    "id": 2,
+    "courseTitle": "Introduction to Algorithms",
+    "courseDetails": "The 'Introduction to Algorithms' course provides a comprehensive introduction to the fundamental concepts, techniques, and principles of algorithm design and analysis.",
+    "courseCoverImage": "https://i.ibb.co/GWWJxQN/Rectangle-2-3.png",
+    "coursePrice": 59.99,
+    "courseCreditHour": 4
+  },
+  {
+    "id": 3,
+    "courseTitle": "Introduction to C++ for DSA",
+    "courseDetails": "In the realm of computer science and programming, Data Structures and Algorithms (DSA) form the bedrock upon which efficient and optimized software solutions are built.",
+    "courseCoverImage": "https://i.ibb.co/M78ZpgD/Rectangle-2-4.png",
+    "coursePrice": 79.99,
+    "courseCreditHour": 5
+  },
+  {
+    "id": 4,
+    "courseTitle": "Basic Data Structures",
+    "courseDetails": "The Data Structures course is designed to provide students with a comprehensive understanding of fundamental data structures and their applications in computer science and software development.",
+    "courseCoverImage": "https://i.ibb.co/DfSPGC8/Rectangle-3.png",
+    "coursePrice": 69.99,
+    "courseCreditHour": 4
+  },
+  {
+    "id": 5,
+    "courseTitle": "Introduction to C Programming",
+    "courseDetails": "The 'Introduction to C Programming' course is designed to provide students with a solid foundation in the C programming language, one of the most widely used and influential programming languages in the world.",
+    "courseCoverImage": "https://i.ibb.co/nCQXCSK/Rectangle-2-2.png",
+    "coursePrice": 89.99,
+    "courseCreditHour": 4
+  },
+  {
+    "id": 6,
+    "courseTitle": "Software Engineering",
+    "courseDetails": "The Software Engineering course is designed to provide students with a comprehensive understanding of the principles, methodologies, and best practices involved in software development.",
+    "courseCoverImage": "https://i.ibb.co/zmmpH09/Rectangle-2-5.png",
+    "coursePrice": 99.99,
+    "courseCreditHour": 6
+  },
+  {
+    "id": 7,
+    "courseTitle": "AWS, Cloud Computing",
+    "courseDetails": "The 'AWS Cloud Computing Fundamentals' course is designed to provide participants with a comprehensive introduction to Amazon Web Services (AWS), one of the leading cloud computing platforms in the world.",
+    "courseCoverImage": "https://i.ibb.co/60pbj1X/Rectangle-3-1.png",
+    "coursePrice": 79.99,
+    "courseCreditHour": 5
+  },
+  {
+    "id": 8,
+    "courseTitle": "Database (MySQL)",
+    "courseDetails": "In this course, students will delve into the world of database management with a focus on MySQL.",
+    "courseCoverImage": "https://i.ibb.co/YhyF21r/Rectangle-2-1.png",
+    "coursePrice": 69.99,
+    "courseCreditHour": 4
+  },
+  {
+    "id": 9,
+    "courseTitle": "Problem-Solving Part",
+    "courseDetails": "'Problem-Solving' is a learning program designed to equip individuals with essential problem-solving skills.",
+    "courseCoverImage": "https://i.ibb.co/86TzzcM/Rectangle-2-6.png",
+    "coursePrice": 74.99,
+    "courseCreditHour": 4
+  }
+]
